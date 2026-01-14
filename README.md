@@ -1,4 +1,4 @@
-# Project Title: (Your Project Name)
+# Project Title: (EduTrack)
 
 ## Description
 This is a PHP CRUD-based dynamic website developed for CSC-337 Assignment 4.
